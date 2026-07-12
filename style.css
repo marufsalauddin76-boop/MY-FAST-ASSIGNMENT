@@ -413,3 +413,7 @@ nav {
 .social-icons a:hover {
     background: #2563eb;
 }
+.footer-logo img {
+    height: 32px;
+    width: auto;
+}
